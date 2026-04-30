@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "token": "b8e83474-5764-2809-d25f-23a12cb3b65c",
+    "endpoint": "https://s.ee/api/v1/file/upload",
+    "domain": "",
+    "authMode": "bearer",
+    "renameMode": "timestamp",
+    "renameTemplate": "{date}-{time}-{index}",
+    "autoCleanup": true,
+    "cleanupGraceMinutes": 10
+  },
+  "uploads": [
+    {
+      "url": "https://i.see.you/2026/04/26/kwQ0/20260426-132955.png",
+      "deleteKey": "https://s.ee/api/v1/file/delete/7r93EtDv70nEL2HqFo6h9ALdnO",
+      "hash": "7r93EtDv70nEL2HqFo6h9ALdnO",
+      "name": "20260426-132955.png",
+      "sourcePath": "00 Inbox/Case Study.md",
+      "createdAt": 1777181395943,
+      "lastSeenAt": 1777181401358,
+      "missingSince": 1777181457017,
+      "lastDeleteAttemptAt": 1777303389463,
+      "lastError": "Request failed, status 404"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-	"id": "smms-uploader",
-	"name": "SMMS Uploader",
+	"id": "see-uploader",
+	"name": "S.EE Uploader",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "上传粘贴或拖拽的图片到 S.EE，并插入 Markdown 图片链接。",
-	"author": "Wenhao Zhu",
+	"author": "XuX",
 	"isDesktopOnly": false
 }

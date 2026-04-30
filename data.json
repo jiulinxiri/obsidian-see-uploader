@@ -1,6 +1,6 @@
 {
   "settings": {
-    "token": "b8e83474-5764-2809-d25f-23a12cb3b65c",
+    "token": "",
     "endpoint": "https://s.ee/api/v1/file/upload",
     "domain": "",
     "authMode": "bearer",

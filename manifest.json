@@ -1,7 +1,7 @@
 {
 	"id": "see-uploader",
 	"name": "S.EE Uploader",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "上传图片到 S.EE，并自动插入 Markdown 图片链接。",
 	"author": "XuX",
